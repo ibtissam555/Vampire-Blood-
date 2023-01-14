@@ -2,9 +2,9 @@
   "Ads Controller": {
     "Ad Units": {
       "Admob": {
-        "admob_banner_id": "ca-app-pub-2120403233975259/3682662935",
-        "admob_interstitial_id": "ca-app-pub-2120403233975259/8361641527",
-        "admob_native_id": "ca-app-pub-2120403233975259/2547860459"
+        "admob_banner_id": "ca-app-pub-7132887092715039/3213003031",
+        "admob_interstitial_id": "ca-app-pub-7132887092715039/2456957583",
+        "admob_native_id": "ca-app-pub-7132887092715039/4620333919"
       },
       "Unity": {
         "unity_game_id": "5115095",
